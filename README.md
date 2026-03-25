@@ -1,4 +1,4 @@
-# Casa_altom-tica
+# Casa_altomática
 Código que utiliza ESP, Arduino e diversos sensores para controle de atomação residencial
 
 ## Altores
